@@ -14,7 +14,7 @@
 ## Visual
 + What does our program looks like? 
 + First once you run the program you can see this
-![First](../Assest/First.png)
+![First](./Assest/First.png)
 + It allows you to choose what you want 
 + If you choose the first option this what you will get : 
 ![First option](../Assest/option1.png)
