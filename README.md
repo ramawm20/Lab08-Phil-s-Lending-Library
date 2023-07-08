@@ -12,21 +12,30 @@
 
 #
 ## Visual
-+ What does our program looks like? 
-+ First once you run the program you can see this
+### What does our program looks like? 
+### First once you run the program you can see this
+
 ![First](./Assest/First.png)
+
 + It allows you to choose what you want 
-+ If you choose the first option this what you will get : 
+### If you choose the first option this what you will get :    
 ![First option](./Assest/option1.png)
+
 + The first option is responsible of showing the user all the books in the library in a Table.
-+ If you choose the option 2 This will happens :
-![Second option ](./Assest/option2.png)
+
+### If you choose the option 2 This will happens :
+![Second option ](./Assest/option2.png)     
 + It asks the user to enter the title of the book to borrow then it calls the library.Borrow function , You can see in the picture that if you entered a title that not found nothing will happened.
-+ if you choose to return a book You will asked to wnter the title and the author of the book Like this :
-![Third option ](./Assest/option3.png)
-+ And finally If you Change your mind and you don't want to do anything choose number 4 to exit the program
-![Exit](./Assest/option4.png)
-+ Also you will get this for the invalid option Like if you entered something else that 1,2,3 or 4
+  
+### if you choose to return a book You will asked to wnter the title and the author of the book Like this :  
+
+![Third option ](./Assest/option3.png)    
+
+### And finally If you Change your mind and you don't want to do anything choose number 4 to exit the program
+![Exit](./Assest/option4.png)    
+
+### Also you will get this for the invalid option Like if you entered something else that 1,2,3 or 4      
+
 ![invalid](./Assest/InvalidOption.png)
 
 #
